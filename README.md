@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Démarrage rapide
+##  Démarrage rapide
 
 ```bash
 cd urbansanity-v13
